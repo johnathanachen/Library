@@ -7,10 +7,11 @@
 
 > **_Awesome library_** this is a library full of snippets and resources
 
-- [Setup](#Setup)
-- [Usage](#Routes)
-- [Feedback](#Feedback)
-- [Contact](#Contact)
+- [Code](#Code)
+  - [Python](#Python)
+  - [Swift](#Swift)
+- [Resources](#Resources)
+  - [Web Design](#WebDesign)
 
 ## Feedback
 

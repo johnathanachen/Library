@@ -1,0 +1,2 @@
+- [<div class="ps-icon ps-icon-code"></div> Code](code.md)
+- [<div class="ps-icon ps-icon-book-tag"></div> Resources](resources.md)

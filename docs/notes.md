@@ -3,5 +3,5 @@
   - bash
   - mongodb
 - resources
-   - Digital Ocean
-   - ML
+  - Digital Ocean
+  - ML
