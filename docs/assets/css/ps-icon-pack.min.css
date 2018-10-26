@@ -22,8 +22,8 @@
 
 @font-face {
   font-family: prestashop-icon-font;
-  src: url(fonts/prestashop-icon-font.eot);
-  src: url(fonts/prestashop-icon-font.eot?#iefix) format("embedded-opentype"), url(fonts/prestashop-icon-font.woff) format("woff"), url(fonts/prestashop-icon-font.ttf) format("truetype"), url(fonts/prestashop-icon-font.svg#prestashop-icon-font) format("svg");
+  src: url(/assets/fonts/prestashop-icon-font.eot);
+  src: url(/assets/fonts/prestashop-icon-font.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/prestashop-icon-font.woff) format("woff"), url(/assets/fonts/prestashop-icon-font.ttf) format("truetype"), url(/assets/fonts/prestashop-icon-font.svg#prestashop-icon-font) format("svg");
   font-weight: 400;
   font-style: normal
 }

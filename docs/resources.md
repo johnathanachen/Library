@@ -1,9 +1,9 @@
 ## [Digital Ocean](#DigitalOcean)
 
-## [Design](Resources/design/design.md)
+## [Design](resources/design/design.md)
 
 ## [Machine Learning](#ML)
 
-## [<i class="fa fa-font" aria-hidden="true"></i> Fonts](Resources/fonts)
+## [<div class="ps-icon ps-icon-arto"></div> Fonts](resources/fonts.md)
 
-## [Icons](Resources/icons)
+## [Icons](Resources/icons.md)
