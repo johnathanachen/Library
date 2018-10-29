@@ -3,6 +3,7 @@
 }
 body {
   background: #ffffff;
+  overflow: scroll !important;
 }
 .sidebar ul li.active > a {
   color: #7568fd;
