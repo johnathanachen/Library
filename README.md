@@ -1,5 +1,5 @@
 <p align="center">
-  <img href="http://docs.johnnythedeveloper.com" src="https://raw.githubusercontent.com/johnathanachen/Library/master/docs/skybox.png" width="300" alt="Fitii">
+  <img href="http://docs.johnnythedeveloper.com" src="https://raw.githubusercontent.com/johnathanachen/Library/master/docs/assets/images/cover-art.png.png" width="300" alt="Fitii">
   <br>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Travis CI"></a>
