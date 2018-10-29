@@ -1,3 +1,11 @@
+# Classification
+
+# Regression
+
+## Terms
+
+- Regularization, lasso and ridge regression
+
 # Fine-tuning your model
 
 ## RandomizedSearchCV
@@ -92,6 +100,14 @@ print("Tuned ElasticNet MSE: {}".format(mse))
 ```
 
 # Preprocessing and pipelines
+
+## Terms
+
+- Underfitting and Overfitting
+- Test-train split
+- Cross-validation
+- Grid search
+- Data preprocessing
 
 ## Exploring categorical features
 
