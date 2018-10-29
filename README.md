@@ -7,11 +7,16 @@
 
 > **_Awesome library_** this is a library full of snippets and resources
 
-- [Code](#Code)
-  - [Python](#Python)
-  - [Swift](#Swift)
-- [Resources](#Resources)
-  - [Web Design](#WebDesign)
+- [Code](docs/code.md)
+  - [Python](docs/code/python.md)
+  - [Swift](docs/code/swift.md)
+  - [Bash](docs/code/bash.md)
+  - [Mongodb](docs/code/mongodb.md)
+  - [Machine Learning](code/MLCode.md)
+- [Resources](docs/resources.md)
+  - [Digital Ocean](docs/resources/digitalOcean.md)
+  - [Web Design](docs/resources/webDesign.md)
+  - [Machine Learning](docs/resources/MLResources.md)
 
 ## Feedback
 
