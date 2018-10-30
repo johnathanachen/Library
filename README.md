@@ -6,18 +6,19 @@
 
 > **_Awesome library_** this is a library full of snippets and resources
 
-- [Code](docs/code.md)
-  - [Python](docs/code/python.md)
-  - [Swift](docs/code/swift.md)
-  - [Bash](docs/code/bash.md)
-  - [Mongodb](docs/code/mongodb.md)
-  - [Machine Learning](code/MLCode.md)
+- [Code](docs/snippets.md)
+  - [Machine Learning](docs/snippets/ML.md)
+  - [Python](docs/snippets/python.md)
+  - [Swift](docs/snippets/swift.md)
+  - [Bash](docs/snippets/bash.md)
+  - [Mongodb](docs/snippets/mongodb.md)
 - [Resources](docs/resources.md)
-  - [Digital Ocean](docs/resources/digitalOcean.md)
-  - [Web Design](docs/resources/webDesign.md)
-  - [Machine Learning](docs/resources/MLResources.md)
+  - [Machine Learning](docs/resources/ML.md)
+  - [Digital Ocean](docs/resources/digital-ocean.md)
+  - [Design](docs/resources/design/design.md)
+  - [Fonts](docs/resources/fonts.md)
+  - [Icons](docs/resources/icons.md)
 
-## Feedback
 
 Find a bug or have a feature request? Please file an <a href="https://github.com/johnathanachen/Library/issues" targe="_blank">issue</a>!
 
