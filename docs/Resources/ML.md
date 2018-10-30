@@ -1,3 +1,5 @@
+## [Linear Classifiers](resources/ML/logistic-regression-vs-SVM.md)
+
 ## Learn
 
 https://brilliant.org/courses/machine-learning/

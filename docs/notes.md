@@ -1,7 +1,0 @@
-- snippets
-  - python
-  - bash
-  - mongodb
-- resources
-  - Digital Ocean
-  - ML
