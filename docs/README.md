@@ -18,6 +18,8 @@
   - [Digital Ocean](resources/digitalOcean.md)
   - [Web Design](resources/webDesign.md)
   - [Machine Learning](resources/MLResources.md)
+  
+## Credits
 
 ## Feedback
 
