@@ -7,9 +7,9 @@
 </p>
 
 
-/> **_Awesome library_** this is a library full of snippets and resources
+> **_Awesome library_** this is a library full of snippets and resources
 
-
+<div><br /></div>
 - [Code](docs/snippets.md)
   - [Machine Learning](docs/snippets/ML.md)
   - [Python](docs/snippets/python.md)
