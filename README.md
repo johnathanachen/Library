@@ -2,6 +2,8 @@
   <img href="http://docs.johnnythedeveloper.com" src="https://raw.githubusercontent.com/johnathanachen/Library/master/docs/assets/images/cover-art.png" width="300" alt="Fitii">
   <br>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-online-brightgreen.svg"></a>
+  ![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg?style=social)
 </p>
 
 > **_Awesome library_** this is a library full of snippets and resources
@@ -19,6 +21,12 @@
   - [Fonts](docs/resources/fonts.md)
   - [Icons](docs/resources/icons.md)
 
+
+## Setup
+
+```js
+$ npm run start
+```
 
 Find a bug or have a feature request? Please file an <a href="https://github.com/johnathanachen/Library/issues" targe="_blank">issue</a>!
 
