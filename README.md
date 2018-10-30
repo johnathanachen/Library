@@ -34,6 +34,7 @@ $ npm run start
 <br />
 Find a bug or have a feature request? Please file an <a href="https://github.com/johnathanachen/Library/issues" targe="_blank">issue</a>!
 
+## Credits
 
 ## Contact
 
