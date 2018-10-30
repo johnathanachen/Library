@@ -35,7 +35,7 @@ $ npm run start
 Find a bug or have a feature request? Please file an <a href="https://github.com/johnathanachen/Library/issues" targe="_blank">issue</a>!
 
 ## Credits
-- <b>Swift:<b> [Uchenna](https://github.com/uch1)
+- <b>UIKit:<b> [Uchenna](https://github.com/uch1)
 
 ## Contact
 
