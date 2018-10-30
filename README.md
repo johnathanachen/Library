@@ -10,6 +10,7 @@
 > **_Awesome library_** this is a library full of snippets and resources
 
 <p><br /></p>
+
 - [Code](docs/snippets.md)
   - [Machine Learning](docs/snippets/ML.md)
   - [Python](docs/snippets/python.md)
