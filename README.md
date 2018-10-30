@@ -8,7 +8,8 @@
 
 
 
-`>` **_Awesome library_** this is a library full of snippets and resources
+`> **_Awesome library_** this is a library full of snippets and resources`
+<br />
 
 
 
