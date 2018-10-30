@@ -3,7 +3,7 @@
   <br>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-online-brightgreen.svg"></a>
-  ![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg?style=social)
+  <a href="#"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg?style=social"></a>
 </p>
 
 > **_Awesome library_** this is a library full of snippets and resources
