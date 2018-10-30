@@ -6,9 +6,9 @@
   <a href="#"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg?style=social"></a>
 </p>
 
-
+<br />
 > **_Awesome library_** this is a library full of snippets and resources
-
+<br />
 
 - [Code](docs/snippets.md)
   - [Machine Learning](docs/snippets/ML.md)
@@ -30,7 +30,7 @@
 $ npm run start
 ```
 
-
+<br />
 Find a bug or have a feature request? Please file an <a href="https://github.com/johnathanachen/Library/issues" targe="_blank">issue</a>!
 
 
