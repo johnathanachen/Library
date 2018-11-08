@@ -1,2 +1,3 @@
-- [<div class="ps-icon ps-icon-code"></div> Snippets](snippets.md)
-- [<div class="ps-icon ps-icon-book-tag"></div> Resources](resources.md)
+- [<div class="ps-icon ps-icon-code"></div> Snippets](sidebars/snippets.md)
+- [<div class="ps-icon ps-icon-coffee-hot"></div> Resources](sidebars/resources.md)
+- [<div class="ps-icon ps-icon-book-tag"></div> Glossary](sidebars/glossary.md)
